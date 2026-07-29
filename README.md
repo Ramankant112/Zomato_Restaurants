@@ -153,7 +153,7 @@ using Jupyter Notebook and execute all cells.
 
 ## 🙋 Author
 
-**Raman Kushwaha**
+**Raman Kant**
 
 🎓 MCA Graduate
 
