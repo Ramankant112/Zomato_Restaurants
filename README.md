@@ -83,13 +83,9 @@ The project includes analysis of:
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Dashboard
 
-> Upload your dashboard screenshot inside the **images** folder.
-
-```markdown
-![Dashboard](images/Dashboard.png)
-```
+![Dashboard](DashboardSS.png)
 
 ---
 
